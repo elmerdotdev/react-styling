@@ -1,0 +1,12 @@
+.container {
+  background-color: pink;
+  padding: 1rem;
+}
+
+.heading {
+  text-decoration: underline;
+}
+
+.paragraph {
+  color: yellow;
+}
